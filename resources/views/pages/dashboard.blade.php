@@ -35,8 +35,8 @@
                   <div class="card-icon">
                     <i class="material-icons">attach_money</i>
                   </div>
-                  <p class="card-category">Receita Mensal</p>
-                  <h4 class="card-title">R$ 5.342,45</h4>
+                  <p class="card-category">Receita Mês</p>
+                  <h4 class="card-title">R$ 95.342,45</h4>
                 </div>
                 <div class="card-footer">
                   <div class="stats">
@@ -65,14 +65,14 @@
               <div class="card card-stats">
                 <div class="card-header card-header-info card-header-icon">
                   <div class="card-icon">
-                    <i class="fa fa-twitter"></i>
+                    <i class="material-icons">assignment</i>
                   </div>
-                  <p class="card-category">Followers</p>
-                  <h3 class="card-title">+245</h3>
+                  <p class="card-category">Consultas Mês</p>
+                  <h3 class="card-title">500</h3>
                 </div>
                 <div class="card-footer">
                   <div class="stats">
-                    <i class="material-icons">update</i> Just Updated
+                    <i class="material-icons">date_range</i> Mês Atual
                   </div>
                 </div>
               </div>
@@ -85,13 +85,13 @@
                   <div class="ct-chart" id="dailySalesChart"></div>
                 </div>
                 <div class="card-body">
-                  <h4 class="card-title">Daily Sales</h4>
+                  <h4 class="card-title">Consultas Mensal</h4>
                   <p class="card-category">
-                    <span class="text-success"><i class="fa fa-long-arrow-up"></i> 55% </span> increase in today sales.</p>
+                    <span class="text-success"><i class="fa fa-long-arrow-up"></i> 55% </span> Diferença com o mês anterior.</p>
                 </div>
                 <div class="card-footer">
                   <div class="stats">
-                    <i class="material-icons">access_time</i> updated 4 minutes ago
+                    <i class="material-icons">access_time</i> Atualizado
                   </div>
                 </div>
               </div>
@@ -102,12 +102,12 @@
                   <div class="ct-chart" id="websiteViewsChart"></div>
                 </div>
                 <div class="card-body">
-                  <h4 class="card-title">Email Subscriptions</h4>
-                  <p class="card-category">Last Campaign Performance</p>
+                  <h4 class="card-title">Receita Mensal </h4>
+                  <p class="card-category"><span class="text-danger"><i class="fa fa-long-arrow-down"></i> 55% </span> Diferença com o mês anterior.</p>
                 </div>
                 <div class="card-footer">
                   <div class="stats">
-                    <i class="material-icons">access_time</i> campaign sent 2 days ago
+                    <i class="material-icons">access_time</i> Atualizado
                   </div>
                 </div>
               </div>
@@ -118,12 +118,12 @@
                   <div class="ct-chart" id="completedTasksChart"></div>
                 </div>
                 <div class="card-body">
-                  <h4 class="card-title">Completed Tasks</h4>
-                  <p class="card-category">Last Campaign Performance</p>
+                  <h4 class="card-title">Cancelamento Mensal</h4>
+                  <p class="card-category"><span class="text-danger"><i class="fa fa-long-arrow-down"></i> 55% </span> Diferença com o mês anterior.</p>
                 </div>
                 <div class="card-footer">
                   <div class="stats">
-                    <i class="material-icons">access_time</i> campaign sent 2 days ago
+                    <i class="material-icons">access_time</i> Atualizado
                   </div>
                 </div>
               </div>
