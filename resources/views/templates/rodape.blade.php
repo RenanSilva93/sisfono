@@ -149,6 +149,9 @@
   <script>
     $(document).ready(function() {
       $().ready(function() {
+        var teste = '<?php echo $pagina;?>';
+        console.log(teste);
+        $('.'+teste).addClass('active');
         $sidebar = $('.sidebar');
 
         $sidebar_img_container = $sidebar.find('.sidebar-background');

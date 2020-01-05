@@ -5,26 +5,26 @@
       </div>
       <div class="sidebar-wrapper">
         <ul class="nav">
-          <li class="nav-item  ">
+          <li class="nav-item">
             <a class="nav-link" href="{{route('dashboard')}}">
               <i class="material-icons">dashboard</i>
               <p>Dashboard</p>
             </a>
           </li>
-          <li class="nav-item ">
-            <a class="nav-link" href="{{route('paciente')}}">
+          <li class="nav-item perfil">
+            <a class="nav-link" href="{{route('perfil')}}">
               <i class="material-icons">person</i>
               <p>Perfil</p>
             </a>
           </li>
-          <li class="nav-item active ">
+          <li class="nav-item paciente">
             <a class="nav-link" href="{{route('paciente')}}">
               <i class="material-icons">content_paste</i>
               <p>Pacientes</p>
             </a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="./typography.html">
+            <a class="nav-link" href="./icons.html">
               <i class="material-icons">library_books</i>
               <p>Consultas</p>
             </a>

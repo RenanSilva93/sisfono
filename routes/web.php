@@ -19,4 +19,8 @@ Route::get('/paciente', function () {
     return view('pages.paciente.paciente');
 })->name('paciente');
 
+Route::get('/perfil', function () {
+    return view('pages.perfil.perfil');
+})->name('perfil');
+
 //Route::get('/', ['users' => 'Controllers@method']);

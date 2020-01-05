@@ -7,7 +7,7 @@
             <a class="navbar-brand" href="#pablo">Pacientes</a>
           </div>
 @include('templates.navbar')
-
+{{$pagina = 'paciente'}}
 <div class="content">
         <div class="container-fluid">
           <div class="row">
