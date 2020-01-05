@@ -16,6 +16,31 @@
 
 /*     brand Colors              */
 
+.titulo_perfil {
+  border-bottom: 2px solid;
+  padding-bottom: 2px;
+}
+.circulo {
+	border: solid 1px #000;
+	max-width: 500px;
+  font-size: 0;
+}
+
+.circulo div {
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    width: 100px;
+    line-height: 100px;
+    background-color: #229922;
+    font-size: 40px;
+}
+
+.formulario{
+  padding-left: 5%;
+}
+
 .card {
   font-size: .875rem;
 }
